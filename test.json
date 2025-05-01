@@ -1,0 +1,19 @@
+{
+      "siteId": "677bdcdad3ad95823e4eda0b",
+      "rating": 2.1,
+      "reviewMessage": "Supper dupper tools",
+      "feedback":{
+        "ProductQuality":[
+          { "name": "High Quality", "baseRating": 1.0 , "score":2 },
+          { "name": "Poor Quality", "baseRating": 0.2 , "score":7 }
+        ],
+        "CustomerServices":[
+          { "name": "Delayed Response", "baseRating": 0.3 , "score":9},
+          { "name": "Unresponsive", "baseRating": 0.2 , "score":11}
+        ],
+        "PlatformExperience":[
+          { "name": "Smooth Experience", "baseRating": 1.0, "score":88 },
+          { "name": "Data Privacy", "baseRating": 0.8, "score":14 }
+        ]
+      }
+    }
