@@ -12,6 +12,9 @@ This is the backend server for the **E-Commerce Trust Score Chrome Extension**, 
 - **Error Handling**: Comprehensive error handling for validation, database, and runtime errors.
 
 ---
+## ER Diagram & Database Design
+- [Miro](https://miro.com/app/board/uXjVL0EDStU=/?lid=bteej2r6fzsw)
+
 
 ## Project Structure
 
@@ -66,7 +69,7 @@ src/
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/wolfiee42/E-CommerceTrustScoreChromeExtensionServer.git
    cd E-CommerceTrustScoreChromeExtensionServer
    ```
 
@@ -228,4 +231,4 @@ This project is licensed under the **MIT License**.
 
 ## Author
 
-Developed by **Saif Al Islam**.
+Developed by **Saif**.
